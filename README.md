@@ -1,1 +1,1 @@
-# Automotive-Brand-Affinity-and-Attribute-Perception-Analysis
+# Automotive Brand Affinity and Attribute Perception Analysis
