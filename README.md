@@ -1,5 +1,4 @@
 # Automotive Brand Affinity and Attribute Perception Analysis
-# Automotive Brand Affinity and Attribute Perception Analysis
 
 ## Project Overview
 This project applies association theory and sentiment analysis techniques to explore the associations between the entry level luxury sedan car brands and key attributes as perceived in consumer discussions. Utilizing the VADER sentiment analysis tool and lift scores , the study quantifies the strength of brand-to-brand and brand-to-attribute relationships within the entry level luxury sedan space.
